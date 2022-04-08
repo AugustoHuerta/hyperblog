@@ -42,3 +42,12 @@ body
 {
     padding: 1em;
 }
+
+#footer
+{
+    width: 70%;
+    padding: 0;
+    text-align: left;
+    border: 1px solid rgb(60, 177, 44);
+    margin: 0 auto;
+}
